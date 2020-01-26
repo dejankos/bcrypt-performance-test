@@ -15,6 +15,3 @@ summary =  16982 in 00:00:35 =  485.3/s Avg:   422 Min:    16 Max:  1086 Err:   
 summary +   4018 in 00:00:09 =  443.9/s Avg:   427 Min:    14 Max:  1364 Err:     0 (0.00%) Active: 0 Started: 210 Finished: 210
 summary =  21000 in 00:00:44 =  476.8/s Avg:   423 Min:    14 Max:  1364 Err:     0 (0.00%)
 ```
-
-### Hw
-Proc
